@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("test code"/n);
+	//version 2.0
+	printf("hello"/n);
 	return 0;
 }
